@@ -1,8 +1,8 @@
 {
   "devMode": "false",
   "advancedMode": "false",
-  "language": "en-US",
+  "language": "th-TH",
   "repository": [
-    "repository-name"
+    "ab-download-manager"
   ]
 }
